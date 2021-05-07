@@ -1,32 +1,13 @@
-
 {
-"Product":
-{"CONFIGURATION_PERIOD":"string",
-"OCS_PRODUCT_NAME":"string",
-"DID":"string",
-"PRODUCT_TYPE":"string",
-"CUSTOMER_TYPE":"string",
-"CLASS_OF_SERVICE_CODE":"string",
-"SERVICE_ID":"string",
-"APPLICATION_NUMBER_LIST":"string",
-"COUNTER_TYPE":"string",
-"TWIN":"string",
-"TP_COSP_AMA_CODE":"string",
-"ID_FF":"string",
-"TIME_CODES":"string",
-"BUNDLE_CONFIGURATION":"string",
-"THRESHOLD_FOR_CAOC_ADDON":"string",
-"RESET":"string",
-"BUCKET_AMA_CODE":"string",
-"PRIORITY":"string",
-"SPECIAL_DAY":"string",
-"SURCHARGE_CAP":"string",
-"FREEZING_THRESHOLD":"string",
-"BLACKLIST":"string",
-"TETHERING":"string",
-"START_DATE":"string",
-"END_DATE":"string",
-"UPDATE_DELETE_EXTRA":"string",
-"PRODUCT_DESCRIPTION":"string",
-}
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
 }
