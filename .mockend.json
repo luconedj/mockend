@@ -29,11 +29,26 @@
         "PRODUCT_DESCRIPTION": "string"
     },
     "TrafficTipology":{
-        "CONFIGURATION_PERIOD": "string",
-        "OCS_PRODUCT_NAME": "string",
-        "DID": "string",
-        "PRODUCT_TYPE": "string",
-        "CUSTOMER_TYPE": "string",
-        "CLASS_OF_SERVICE_CODE": "string"
+        "RATE_TYPE":"string",
+        "DID":"string",
+        "TARIFF_PLAN_ID":"string",
+        "THRESHOLD_NUMBER":"string",
+        "THRESHOLD_VALUE":"string",
+        "USAGE_TYPE_ID":"string",
+        "BAND_LABEL":"string",
+        "USAGE_DIRECTION":"string",
+        "DISCOUNT_RATE_PRIORITY":"string",
+        "QOS_ID":"string",
+        "RCP":"string",
+        "RATE_GROUP_ID":"string",
+        "RATE_ID":"string",
+        "FLAT_CHARGE":"string",
+        "CHARGE_RATE":"string",
+        "MEASUREMENT_UNIT":"string",
+        "N_FREE_NUMBER":"string",
+        "CHARGE_GRANULARITY":"string",
+        "CHARGE_GRANULARITY_TYPE":"string",
+        "RATE_AMA_CODE":"string",
+
     }
 }
