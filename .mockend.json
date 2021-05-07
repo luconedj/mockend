@@ -3,7 +3,7 @@
     "title": "string",
     "views": "string",
     "published": "string",
-    "createdAt":"string",
+    "createdAt": "string",
     "comments": "string""
   }
 }
