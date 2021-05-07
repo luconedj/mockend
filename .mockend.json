@@ -1,9 +1,9 @@
 {
   "Post": {
     "title": "string",
-    "views": "string",
+    "views": "int",
     "published": "string",
-    "createdAt": "string",
+    "createdAt": "int",
     "comments": "string""
   }
 }
