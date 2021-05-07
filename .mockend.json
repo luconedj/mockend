@@ -2,8 +2,12 @@
   "Post": {
     "title": "string",
     "views": "int",
-    "published": "string",
-    "createdAt": "int",
-    "comments": "string""
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
