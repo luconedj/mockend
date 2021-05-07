@@ -28,7 +28,7 @@
         "UPDATE_DELETE_EXTRA": "string",
         "PRODUCT_DESCRIPTION": "string"
     },
-    "TrafficTipology": {
+    "Rate": {
         "RATE_TYPE": "string",
         "DID": "string",
         "TARIFF_PLAN_ID": "string",
