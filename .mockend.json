@@ -27,5 +27,13 @@
         "END_DATE": "string",
         "UPDATE_DELETE_EXTRA": "string",
         "PRODUCT_DESCRIPTION": "string"
+    },
+    "TrafficTipology":{
+        "CONFIGURATION_PERIOD": "string",
+        "OCS_PRODUCT_NAME": "string",
+        "DID": "string",
+        "PRODUCT_TYPE": "string",
+        "CUSTOMER_TYPE": "string",
+        "CLASS_OF_SERVICE_CODE": "string"
     }
 }
