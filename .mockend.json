@@ -8,6 +8,9 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "string",
+    "BUCKET_AMA_CODE":"string",
+    "PRIORITY":"string",
+    "SPECIAL_DAY":"string"
   }
 }
