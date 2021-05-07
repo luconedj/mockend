@@ -6,7 +6,7 @@
     "createdAt": "string",
     "comments": "string"
   },
-  "Comment": {
+  "ocs": {
     "body": "string",
     "post": "string",
     "BUCKET_AMA_CODE":"string",
